@@ -1,4 +1,4 @@
-# Hola-Mundo
+# Ho la Mundo  
 Mi primer repositorio
 
 Autor: Dian  Alcantara
